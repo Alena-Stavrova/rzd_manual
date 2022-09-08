@@ -2,6 +2,7 @@
 :toc:
 :toc-title: Оглавление 
 :allow-uri-read:
+:safe: unsafe:
 
 include::1. Login and authorization.adoc[]
 
