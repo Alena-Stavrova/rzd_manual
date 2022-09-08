@@ -1,0 +1,19 @@
+= Руководство по покупке билета
+:toc:
+:toc-title: Оглавление 
+
+include::1. Login and authorization.adoc[]
+
+include::2. Ticket search.adoc[]
+
+include::3. Choosing a train and a ticket.adoc[]
+
+include::4. Choosing a passenger and confirming the data.adoc[]
+
+include::5. Checkout.adoc[]
+
+
+
+
+
+
