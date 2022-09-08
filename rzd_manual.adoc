@@ -1,6 +1,7 @@
 = Руководство по покупке билета
 :toc:
 :toc-title: Оглавление 
+:allow-uri-read:
 
 include::1. Login and authorization.adoc[]
 
